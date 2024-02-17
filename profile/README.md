@@ -11,8 +11,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Η σελίδα github του Όμιλου Πληροφορικής του 17ου ΓΕΛ και 13ου ΓΥΜ Θεσσαλονίκης!
+🙋‍♂️ Η σελίδα github του Όμιλου Πληροφορικής του 17ου ΓΕΛ και 13ου ΓΥΜ Θεσσαλονίκης!
 
-Εδώ θα αναρτήσουμε τις δημιουργίες μας που θα κάνουμε. 
+👨‍💻 Εδώ θα αναρτήσουμε τις δημιουργίες που θα κάνουμε. 
 
-Η γλώσσα προγραμματισμού που χρησιμποιούμαι είναι η Python!
+🐍 Η γλώσσα προγραμματισμού που χρησιμποιούμαι είναι η Python!
