@@ -1,6 +1,6 @@
 ## Ο.Π. 17ου ΓΕΛ και 13ου ΓΥΜ
 
-<img alt="banner" src="OMILOS_BANNER_removebg.png">
+<img alt="banner" src="profile/banner.png">
 
 🙋‍♂️ Η σελίδα github του Όμιλου Πληροφορικής του 17ου ΓΕΛ και 13ου ΓΥΜ Θεσσαλονίκης!
 
