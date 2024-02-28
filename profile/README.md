@@ -1,6 +1,6 @@
 ## Ο.Π. 17ου ΓΕΛ και 13ου ΓΥΜ
 
-<img alt="banner" src="profile/Banner_long.png" onerror="Banner_long.png">
+<img alt="banner" src="https://github.com/Omilos-Plhroforikis-17o-GEL-13o-GYM/.github/blob/main/profile/Banner_long.png">
 
 🙋‍♂️ Η σελίδα github του Όμιλου Πληροφορικής του 17ου ΓΕΛ και 13ου ΓΥΜ Θεσσαλονίκης!
 
