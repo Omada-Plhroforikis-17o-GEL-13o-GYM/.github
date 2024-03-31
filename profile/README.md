@@ -8,7 +8,7 @@
 
 🐍 Η γλώσσα προγραμματισμού που χρησιμποιούμαι είναι η Python!
 
-💻 Το [website](https://iosifidi.wixsite.com/omilos) που έφτιαξε ο όμιλος μας!
+💻 Το [website](https://iosifidi.wixsite.com/omoda) που έφτιαξε ο όμιλος μας!
 
 📱 Ο λογαριασμός [instagram](https://www.instagram.com/17gel13/) του ομίλου μας!
 
