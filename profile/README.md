@@ -1,4 +1,4 @@
-## Ο.Π. Thesspixel
+## Thesspixel μια ομάδα πληροφορικής!
 
 <img alt="banner" src="https://github.com/Omilos-Plhroforikis-17o-GEL-13o-GYM/.github/blob/main/profile/BANNER_GITHUB.png">
 
