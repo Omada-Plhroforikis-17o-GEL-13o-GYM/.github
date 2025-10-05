@@ -1,4 +1,4 @@
-## Ο.Π. 17ου ΓΕΛ και 13ου ΓΥΜ
+## Ο.Π. Thesspixel
 
 <img alt="banner" src="https://github.com/Omilos-Plhroforikis-17o-GEL-13o-GYM/.github/blob/main/profile/BANNER_GITHUB.png">
 
